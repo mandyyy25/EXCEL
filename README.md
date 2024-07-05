@@ -10,3 +10,4 @@ a
 ### Também adicionei uma opção de estoque. Essa opção nos permite editar o valor de estoque para os produtos. Uma caixa de confirmação é aberta
 ![WhatsApp Image 2024-07-05 at 10 55 50 AM](https://github.com/mandyyy25/EXCEL/assets/161378989/27d2e0f9-8a71-471a-ba22-9e33ecb7a5dd)
 ### Estoque alterado
+
